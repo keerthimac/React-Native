@@ -22,7 +22,7 @@ const ListScreen = () => {
     },
     {
       name: 'Friend 5',
-      age: 53,
+      age: 54,
     },
     {
       name: 'Friend 7',
