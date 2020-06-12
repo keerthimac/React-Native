@@ -8,6 +8,7 @@ const HomeScreen = ({ navigation }) => {
       <Text style={styles.text}>Hello There!</Text>
       <Button title="Go to component demo" onPress={() => navigation.navigate('Components')} />
       <Button title="Go to List Demo" onPress={() => navigation.navigate('List')} />
+      <Button title="Go to Image Demo" onPress={() => navigation.navigate('Image')} />
 
       {/* <TouchableOpacity onPress={() => props.navigation.navigate('List')}>
         <Text>Go to List Demo</Text>
